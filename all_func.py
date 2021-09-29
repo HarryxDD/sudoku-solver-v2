@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 import os
 import tensorflow.keras.models as tf
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 
 # load_model
 model = tf.load_model('model/model.h5')

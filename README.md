@@ -39,7 +39,7 @@
 
 <a name="pro"></a> -->
 # About the project:
-
+A project developed with the intention of learning and exploring OpenCV. This is a sudoku solver using the backtracking algorithm.
 
 <a name="tech"></a>
 ## Built with: 
@@ -47,7 +47,6 @@
 
 -  Python
 -  Visual studio
--  Github
 
 <a name="get"></a>
 # Getting started:
@@ -65,16 +64,15 @@ Numpy:
         pip install numpy
         conda install numpy (if you use conda)
         
-Pandas:
+Tensorflow:
         
-        pip install pandas
-        conda install pandas (if you use conda)
+        pip install --upgrade pip
+        pip install tensorflow
 
         
 
 
       
-
 <a name="da"></a>
 <!-- ## Data:
 
